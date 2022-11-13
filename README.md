@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-A Social Tree/Page with a list of links that can be used in social media profiles.
+A Social Tree Page with a list of links that can be used in social media profiles.
 
 ## 🔖 Layout
 
