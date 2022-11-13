@@ -25,7 +25,7 @@ Challenge from Rocketseat Discover
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML & CSS
 - Git & GitHub
 
 ## 💻 Project
